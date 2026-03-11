@@ -43,6 +43,6 @@ Elo sedang terbang!
 
 **Eagle = turunan dari Animal, punya method fly()**
 
-extends = untuk pewarisan
+**extends = untuk pewarisan**
 
 super() = untuk memanggil constructor parent
