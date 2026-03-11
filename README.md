@@ -41,7 +41,7 @@ Elo sedang terbang!
 
 **Rabbit = turunan dari Animal, punya method eat()**
 
-Eagle = turunan dari Animal, punya method fly()
+**Eagle = turunan dari Animal, punya method fly()**
 
 extends = untuk pewarisan
 
