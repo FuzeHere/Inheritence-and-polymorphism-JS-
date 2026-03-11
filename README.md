@@ -29,11 +29,15 @@ Project ini membahas beberapa konsep dasar OOP:
 Labi sedang makan!
 Elo sedang terbang!
 
+---
+
 ## 🚀 Cara Menjalankan
 
 1. Simpan code dengan nama index.js
 2. Jalankan pada terminal atau Node.js:
    node index.js
+
+---
 
 ## 📖 Ringkasan Singkat
 
@@ -45,4 +49,4 @@ Elo sedang terbang!
 
 **extends = untuk pewarisan**
 
-super() = untuk memanggil constructor parent
+**super() = untuk memanggil constructor parent**
