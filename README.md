@@ -37,9 +37,9 @@ Elo sedang terbang!
 
 ## 📖 Ringkasan Singkat
 
-Animal = class induk
+**Animal = class induk**
 
-Rabbit = turunan dari Animal, punya method eat()
+**Rabbit = turunan dari Animal, punya method eat()**
 
 Eagle = turunan dari Animal, punya method fly()
 
